@@ -7,6 +7,9 @@
 ## Materiale Seconda Parte
 
 ## Materiale Terza Parte
+[Codice Assembly]()<br/>
+[Librerie Assembly](https://studentiunical-my.sharepoint.com/:f:/g/personal/vcoggr02l20c352m_studenti_unical_it/EtnOaI_HEGZDlv4vn_yo3OIBv_R2BZ-FjJkQq64P6_as8w?e=OgG9xE)<br/>
+[Manuale Intel](https://studentiunical-my.sharepoint.com/:b:/g/personal/vcoggr02l20c352m_studenti_unical_it/Ee4VMs6IcKZEvw82G1g0wzYBxzyzACiNPu1XFLuDr7r0ew?e=ikGP2L)
 
 ## Libro
 [Capitoli Uniti]()
