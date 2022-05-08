@@ -7,8 +7,8 @@
 ## Materiale Seconda Parte
 
 ## Materiale Terza Parte
-[Codice Assembly](https://studentiunical-my.sharepoint.com/:f:/g/personal/vcoggr02l20c352m_studenti_unical_it/Eo9uPiIZZSxCshyFozZeA2sBMgQRYIp62n7wT1FXwHblsQ?e=vTaX7T)<br/>
-[Librerie Assembly](https://studentiunical-my.sharepoint.com/:f:/g/personal/vcoggr02l20c352m_studenti_unical_it/EtnOaI_HEGZDlv4vn_yo3OIBv_R2BZ-FjJkQq64P6_as8w?e=OgG9xE)<br/>
+[Codice Assembly](https://github.com/Gory-git/RetiLogicheECalcolatori/tree/main/Assembly/Codice)<br/>
+[Librerie Assembly](https://github.com/Gory-git/RetiLogicheECalcolatori/tree/main/Assembly/Librerie)<br/>
 [Manuale Intel](https://studentiunical-my.sharepoint.com/:b:/g/personal/vcoggr02l20c352m_studenti_unical_it/Ee4VMs6IcKZEvw82G1g0wzYBxzyzACiNPu1XFLuDr7r0ew?e=ikGP2L)
 
 ## Libro
