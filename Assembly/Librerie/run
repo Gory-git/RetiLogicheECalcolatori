@@ -1,0 +1,25 @@
+#!/bin/bash
+if [ "$1" == "" ]; then
+	printf "Uso: ./run <nome_file_sorgente> (senza estensione)\n";
+else
+	e=0;
+	if [ -f $1.nasm ]; then
+		nasm -f elf32 $1.nasm;
+		e=$?;
+	else
+		if [ -f $1.asm ]; then
+			nasm -f elf32 $1.asm;
+			e=$?;
+		else
+			printf "Il file '$1.asm' o '$1.nasm' non esiste\n";
+			exit 1
+		fi
+	fi
+	if [[ $e -eq 0 ]]; then
+		ld -m elf_i386 $1.o utils.o -o $1;
+		e=$?;
+	fi;
+	if [[ $e -eq 0 ]]; then
+		./$1
+	fi;
+fi
