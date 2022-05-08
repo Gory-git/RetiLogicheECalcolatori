@@ -5,29 +5,18 @@
 
 Il corso si compone di tre parti  
 
-### Prima Parte - Reti logiche
+### Prima Parte 
+[Reti logiche]()<br>
 
-L'obbiettivo di questa parte è 
+### Seconda Parte 
 
-[Appunti](https://studentiunical-my.sharepoint.com/:f:/g/personal/vcoggr02l20c352m_studenti_unical_it/Ei_U4Reg21RPjZyrifmm-ZcB4uhCh970sFkDlkyyN-EaSQ?e=2B2giC)<br>
-[Materiale Vario](https://studentiunical-my.sharepoint.com/:f:/g/personal/vcoggr02l20c352m_studenti_unical_it/Epx-zqz0xr9Puw12ZvrDnNMBl61HTjzOJFkj94nsR8f9BQ?e=TWRMVN)<br>
-[Esercizi](https://studentiunical-my.sharepoint.com/:f:/g/personal/vcoggr02l20c352m_studenti_unical_it/EmPZ_pa42k9IrdIQ09KeYJwB9XPR03V-aVjH8LOFHE0fLQ?e=oZtGPq)
-
-### Seconda Parte - Microprogrammazione _RTL_(**R**egister **T**ransfer **L**anguage)
+[Microprogrammazione _RTL_(**R**egister **T**ransfer **L**anguage)]()<br>
 
 ### Terza Parte
 
-#### Architettura del Calcolatore 
+[Architettura del Calcolatore]()<br>
+[Linguaggio Assembly 80386]()<br>
 
-[Macchina ad Accumulatore]()<br>
-[Mcchina a Registri]()<br>
-
-
-#### Linguaggio Assembly 80386
-
-[Codice Assembly](https://github.com/Gory-git/RetiLogicheECalcolatori/tree/main/Assembly/Codice)<br>
-[Librerie Assembly](https://github.com/Gory-git/RetiLogicheECalcolatori/tree/main/Assembly/Librerie)<br>
-[Manuale Intel](https://studentiunical-my.sharepoint.com/:b:/g/personal/vcoggr02l20c352m_studenti_unical_it/Ee4VMs6IcKZEvw82G1g0wzYBxzyzACiNPu1XFLuDr7r0ew?e=ikGP2L)
 
 ## Libro
 
@@ -50,7 +39,7 @@ L'obbiettivo di questa parte è
 [Capitolo 10]()<br>
 [Capitolo 11]()<br>
 [Capitolo 12]()<br>
-[Capitolo 13]()
+[Capitolo 13]()<br>
 
 ## Materiale
 
