@@ -20,26 +20,8 @@ Il corso si compone di tre parti
 
 ## Libro
 
-[Capitoli Uniti]()
-
-### Capitoli Singoli
-
-[Capitolo 0]()<br>
-[Capitolo 1]()<br>
-[Capitolo 2.1]()<br>
-[Capitolo 2.2]()<br>
-[Capitolo 2.3]()<br>
-[Capitolo 2.4]()<br>
-[Capitolo 3]()<br>
-[Capitolo 3-bis]()<br>
-[Capitolo 4]()<br>
-[Capitolo 5]()<br>
-[Capitolo 5]()<br>
-[Capitolo 6]()<br>
-[Capitolo 10]()<br>
-[Capitolo 11]()<br>
-[Capitolo 12]()<br>
-[Capitolo 13]()<br>
+[Capitoli Uniti](https://studentiunical-my.sharepoint.com/:b:/g/personal/vcoggr02l20c352m_studenti_unical_it/EdnX4-WpzYJFjxtCiBmB4q0Bf3bfbhlu4Ay43ZYYaFNnag?e=S8RCUY)<br>
+[Capitoli Singoli]()<br>
 
 ## Materiale
 
