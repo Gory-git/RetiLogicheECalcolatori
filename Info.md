@@ -6,16 +6,16 @@
 Il corso si compone di tre parti  
 
 ### Prima Parte 
-[Reti logiche]()<br>
+[Reti logiche](https://github.com/Gory-git/RetiLogicheECalcolatori/blob/main/Prima%20Parte/retiLogiche.md)<br>
 
 ### Seconda Parte 
 
-[Microprogrammazione _RTL_(**R**egister **T**ransfer **L**anguage)]()<br>
+[Microprogrammazione _RTL_(**R**egister **T**ransfer **L**anguage)](https://github.com/Gory-git/RetiLogicheECalcolatori/blob/main/Seconda%20Parte/microprogrammazione.md)<br>
 
 ### Terza Parte
 
-[Architettura del Calcolatore]()<br>
-[Linguaggio Assembly 80386]()<br>
+[Architettura del Calcolatore](https://github.com/Gory-git/RetiLogicheECalcolatori/blob/main/Terza%20Parte/Architettura/architetturaDelCalcolatore.md)<br>
+[Linguaggio Assembly 80386](https://github.com/Gory-git/RetiLogicheECalcolatori/blob/main/Terza%20Parte/Assembly/linguaggioAsssembly.md)<br>
 
 
 ## Libro
